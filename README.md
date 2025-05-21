@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunggatalimbet
-- 👀 I’m interested in Web developent
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Nest JS
 - 💞️ I’m looking to collaborate on building fullstack apps
 - 📫 How to reach me sunggatalimbetov@gmail.com
